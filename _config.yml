@@ -1,6 +1,6 @@
 # Site settings
-title: Lokmont
-description: Lokmont is a responsive simple theme for Jekyll.
+title: Chicago Venues
+description: A website for showing all live music events happening in Chicago
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -76,3 +76,4 @@ exclude:
  - Gemfile
  - Gemfile.lock
  - vendor
+
